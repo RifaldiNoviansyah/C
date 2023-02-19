@@ -1,0 +1,16 @@
+ biodata mahasiswa 
+===================
+nim      = 2
+nama     = qw
+umur     = 0
+alamat   = wq
+jurusan  = qw
+===================
+ biodata mahasiswa 
+===================
+nim      = 1212
+nama     = qwee
+umur     = 1221
+alamat   = eeee
+jurusan  = ccccc
+===================
